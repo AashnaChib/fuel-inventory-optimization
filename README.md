@@ -18,8 +18,3 @@ This project analyzes **1.85M+ rows of fuel inventory data** to identify purchas
 - `TeamE_FinalProject.ipynb` → Main Jupyter Notebook with analysis  
 - (Optional) `final_project.html` → Exported HTML version for quick viewing  
 
-## 🚀 How to Run
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/AashnaChib/fuel-inventory-optimization.git
-   cd fuel-inventory-optimization
